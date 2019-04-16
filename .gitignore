@@ -1,0 +1,4 @@
+## .gitignore file for yaml-cpp-scaffold
+
+## ignore folder fetched through gclient
+yaml-cpp
